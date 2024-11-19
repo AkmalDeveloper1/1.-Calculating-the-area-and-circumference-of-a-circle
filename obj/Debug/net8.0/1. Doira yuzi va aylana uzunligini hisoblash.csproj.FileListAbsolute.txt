@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\1.masala\bin\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.exe
+C:\Users\User\OneDrive\Рабочий стол\1.masala\bin\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.deps.json
+C:\Users\User\OneDrive\Рабочий стол\1.masala\bin\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\1.masala\bin\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.dll
+C:\Users\User\OneDrive\Рабочий стол\1.masala\bin\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.pdb
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.sourcelink.json
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.dll
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\refint\1. Doira yuzi va aylana uzunligini hisoblash.dll
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.pdb
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\1. Doira yuzi va aylana uzunligini hisoblash.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\1.masala\obj\Debug\net8.0\ref\1. Doira yuzi va aylana uzunligini hisoblash.dll
